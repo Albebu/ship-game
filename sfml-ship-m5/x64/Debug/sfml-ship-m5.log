@@ -1,0 +1,9 @@
+﻿  Game.cpp
+F:\sfml-ship-m5\Game.cpp(44,48): warning C4805: '==': combinación no segura del tipo 'sf::Event::EventType' y el tipo 'bool' en la operación
+F:\sfml-ship-m5\Game.cpp(69,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(77,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(148,28): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(150,32): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(164,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\sfml-ship-m5\Game.cpp(188,1): warning C4715: 'Game::checkWinner': no todas las rutas de acceso de control devuelven un valor
+  sfml-ship-m5.vcxproj -> F:\sfml-ship-m5\x64\Debug\sfml-ship-m5.exe

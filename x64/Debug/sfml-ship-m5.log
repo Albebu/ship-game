@@ -1,0 +1,38 @@
+﻿  Game.cpp
+F:\sfml-ship-m5\Game.cpp(44,48): warning C4805: '==': combinación no segura del tipo 'sf::Event::EventType' y el tipo 'bool' en la operación
+F:\sfml-ship-m5\Game.cpp(69,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(77,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(148,28): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(150,32): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+F:\sfml-ship-m5\Game.cpp(164,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  main.cpp
+  Ship.cpp
+F:\sfml-ship-m5\Ship.cpp(28,59): warning C4244: 'argumento': conversión de 'const T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\sfml-ship-m5\Ship.cpp(28,46): warning C4244: 'argumento': conversión de 'const T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\sfml-ship-m5\Ship.cpp(49,11): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\sfml-ship-m5\Ship.cpp(59,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\sfml-ship-m5\Ship.cpp(100,31): warning C4018: '>=': no coinciden signed/unsigned
+F:\sfml-ship-m5\Ship.cpp(122,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Ship.cpp(126,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Ship.cpp(132,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\sfml-ship-m5\Ship.cpp(139,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Sounds.cpp
+  Generando código...
+F:\sfml-ship-m5\Game.cpp(188): warning C4715: 'Game::checkWinner': no todas las rutas de acceso de control devuelven un valor
+  sfml-ship-m5.vcxproj -> F:\sfml-ship-m5\x64\Debug\sfml-ship-m5.exe

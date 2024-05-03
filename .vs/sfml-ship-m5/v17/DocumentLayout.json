@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\sfml-ship-m5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\Sounds.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:Sounds.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\Sounds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:Sounds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|F:\\sfml-ship-m5\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6497FF5-AA58-40FC-A65C-874272F285AE}|sfml-ship-m5.vcxproj|solutionrelative:Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sounds.cpp",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\Sounds.cpp",
+              "RelativeDocumentMoniker": "Sounds.cpp",
+              "ToolTip": "F:\\sfml-ship-m5\\Sounds.cpp",
+              "RelativeToolTip": "Sounds.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T07:17:12.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sounds.h",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\Sounds.h",
+              "RelativeDocumentMoniker": "Sounds.h",
+              "ToolTip": "F:\\sfml-ship-m5\\Sounds.h",
+              "RelativeToolTip": "Sounds.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T07:14:33.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "F:\\sfml-ship-m5\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAADgv4gAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T14:18:32.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "F:\\sfml-ship-m5\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T14:17:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ship.cpp",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\Ship.cpp",
+              "RelativeDocumentMoniker": "Ship.cpp",
+              "ToolTip": "F:\\sfml-ship-m5\\Ship.cpp",
+              "RelativeToolTip": "Ship.cpp",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T15:05:34.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ship.h",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\Ship.h",
+              "RelativeDocumentMoniker": "Ship.h",
+              "ToolTip": "F:\\sfml-ship-m5\\Ship.h",
+              "RelativeToolTip": "Ship.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T14:10:53.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\sfml-ship-m5\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "F:\\sfml-ship-m5\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T14:08:26.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
